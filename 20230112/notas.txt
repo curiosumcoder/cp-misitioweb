@@ -1,0 +1,26 @@
+Sitios Web
+- Estáticos
+	- Contenido (documento) que sufre pocos cambios.
+
+		https://en.wikipedia.org/wiki/Costa_Rica
+		https://www.bbc.com/mundo/noticias-64256811
+
+- Dinámicos
+	- Contenido (documento) que sufre cambios con la interacción del usuario.
+
+	https://www.amazon.com/
+	https://twitter.com/home
+
+
+--------------------------------------------
+- Documento HTML
+	- HTML (Hyper Text Markup Language)
+
+		- Lenguaje de Marcado e Hipertexto
+			- Direcciones (URL), apuntan a un documento, links, hipervínculos
+			- Marcado (etiqueta)
+				- <h1>Título</h1>
+
+		- .html
+
+	- Código fuente (.. Microsoft Word)
