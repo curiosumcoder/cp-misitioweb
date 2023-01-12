@@ -11,12 +11,12 @@ Sitios Web
 	https://www.amazon.com/
 	https://twitter.com/home
 
-
 --------------------------------------------
 - Documento HTML
 	- HTML (Hyper Text Markup Language)
+		https://es.wikipedia.org/wiki/HTML
 
-		- Lenguaje de Marcado e Hipertexto
+		- Lenguaje de Marcado de Hipertexto
 			- Direcciones (URL), apuntan a un documento, links, hipervínculos
 			- Marcado (etiqueta)
 				- <h1>Título</h1>
