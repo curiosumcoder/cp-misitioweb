@@ -1,1 +1,15 @@
+- File System
+	- Files
+		- Types
+				- .jpg, .png, .gif, ..., (images)
+				- ...
+
+				- .txt (text)
+					- Formato
+
+				- .html (documento, página)
+					- Semántica (significado) del texto
+					https://developer.mozilla.org/en-US/docs/Web/HTML
+
+
 
