@@ -1,0 +1,29 @@
+/* conjuntos de reglas
+regla
+selector
+atributo/valor */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+    /* margin: 10px 5px 20px 50px; */
+    margin: 2em;
+}
+
+p {
+    color: grey;
+    background-color: bisque;
+}
+
+h1 {
+    border-bottom: 1px solid blue;
+}
+
+/* - Box Model
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model		
+- Lists
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists
+- Flex Layout
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+- Grid Layout
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+- div, span */
